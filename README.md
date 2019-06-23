@@ -1,2 +1,0 @@
-# Slotify
-Spotify clone project
